@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/tik.yang.988/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tik.yang.988/" height="30" width="40" /></a>
-<a href"https://wa.link/fm6ykc"><img align="center" src="https://www.flaticon.com/free-icon/whatsapp_1384055"/></a>
+<a href="https://api.whatsapp.com/send?phone=8562055593359&text=%E0%BA%AA%E0%BA%B0%E0%BA%9A%E0%BA%B2%E0%BA%8D%E0%BA%94%E0%BA%B5"><img align="center" src="https://www.flaticon.com/free-icon/whatsapp_1384055"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
