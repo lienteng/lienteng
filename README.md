@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **olienteng895@gmail.com**
 
-- 📄 Know about my experiences [I Finich scool 2020 , work 2021](I Finich scool 2020 , work 2021)
-
 - ⚡ Fun fact **Love my job**
 
 <h3 align="left">Connect with me:</h3>
@@ -29,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lienteng&show_icons=true&locale=en" alt="lienteng" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lienteng&" alt="lienteng" /></p>
+ <h2>Know about my experiences</h2>
+  [I Finich scool 2020 , work 2021](I Finich scool 2020 , work 2021)
