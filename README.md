@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm lienteng</h1>
-<h3 align="center">A passionate Web developer from laos</h3>
+<h3 align="center">A passionate Web developer</h3>
 
 - 🔭 I’m currently working on **Akatsolution**
 
