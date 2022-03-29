@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on Akatsolution **Akatsolution**
 
-- 🌱 I’m currently learning **phython**
+- 🌱 I’m currently learning **Flutter and javascript**
 
-- 💬 Ask me about **HTML,CSS and Javascript**
+- 💬 Ask me about **Flutter,Javascript and node js**
 
 - 📫 How to reach me **olienteng895@gmail.com**
 
-- ⚡ Fun fact **Love my job**
+- ⚡ Fun fact **Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
