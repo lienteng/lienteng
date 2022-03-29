@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Akatsolution**
 
-- 🌱 I’m currently learning **Flutter and javascript**
+- 🌱 I’m currently learning **Web3**
 
 - 💬 Ask me about **Flutter,Javascript and node js**
 
