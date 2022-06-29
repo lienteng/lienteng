@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web3**
 
-- 💬 Ask me about **Flutter,Javascript and node js**
+- 💬 Ask me about **Flutter,Javascript,react js and node js**
 
 - 📫 How to reach me **olienteng895@gmail.com**
 
