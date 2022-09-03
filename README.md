@@ -21,7 +21,7 @@
 
 #### Now
 
-- ✨ Contributing to [chkware](https://github.com/lienteng);
+- ✨ Contributing to [akatsolution](http://akatsolution.com/en/index.php?d=index);
 - :fire: Interested in website and Mobile app 
 - :calendar: Looking for contributing to flutter based open source projects 
 
