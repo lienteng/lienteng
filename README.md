@@ -1,31 +1,82 @@
-<h1 align="center">Hi 👋, I'm lienteng</h1>
-<h3 align="center">A passionate Web developer</h3>
+## Hi 👋, I'm a software engineer working in Dhaka, Bangladesh
 
-- 🔭 I’m currently working on **Akatsolution**
-
-- 🌱 I’m currently learning **Web3**
-
-- 💬 Ask me about **Flutter,Javascript,react js and node js**
-
-- 📫 How to reach me **olienteng895@gmail.com**
-
-- ⚡ Fun fact **Coding**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/tik.yang.988/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tik.yang.988/" height="30" width="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=8562055593359&text=%E0%BA%AA%E0%BA%B0%E0%BA%9A%E0%BA%B2%E0%BA%8D%E0%BA%94%E0%BA%B5"><img align="center" src="44d52fbbc881bc779801fda90e227c11.jpg"/></a>
+  <a href="https://leetcode.com/sudiptob2/">
+    <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
+  </a>
+  <a href="https://codeforces.com/profile/sudipto.me">
+    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+  </a>
+  <a href="https://stackoverflow.com/users/5921662/sudipto">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/sudiptob2?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
+  </a>
+  <a href="https://github.com/sudiptob2/">
+    <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="visitors" />
+  </a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://https://docs.flutter.dev/get-started/" target="_blank"> <img src="https://pub.dev/packages/flutter_svg" alt="Flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+#### Now
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lienteng&show_icons=true&locale=en&layout=compact" alt="lienteng" /></p>
+- ✨ Contributing to [chkware](https://github.com/chkware/cli);
+- :fire: Interested in DevOps and Cloud engineering;
+- :calendar: Looking for contributing to python based open source projects 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lienteng&show_icons=true&locale=en" alt="lienteng" /></p>
+#### Bio
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lienteng&" alt="lienteng" /></p>
- <h2>Know about my experiences</h2>
-  [I Finich scool 2020 , work 2021](I Finich scool 2020 , work 2021)
+- 🏢 I'm currently working at **BRAC IT**
+- ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
+- 🌍 I'm mostly active within the **Python Community**
+- 🌱 Learning all about **DevOps**
+- 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
+- 📫 Reach me: [twitter.com/sudiptob2](https://twitter.com/sudiptob2)
+- 📝 Checkout my [Resume](files/resume.pdf).
+
+#### My Current Stack
+
+<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
+
+#### Development Stuffs:
+
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudiptob2&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptob2&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
+</p>
+
+#### Recent Activity
+
+<p><b> &#9749; Latest Medium Blogs</b></p>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0" alt="Latest medium article">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1" alt="Latest medium article"> </a>
+
+#### Connect With Me
+
+<p left="center">
+<a href="https://twitter.com/sudiptob2">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
+<a href="https://www.linkedin.com/in/sudiptob2/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="https://www.facebook.com/sudiptob2">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+</a>
+<a href="https://medium.com/@sudiptob2">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
+</a>
+<a href="mailto:sudiptobaral.me@gmail.com">
+  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p>
