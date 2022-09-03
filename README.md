@@ -21,7 +21,7 @@
 
 #### Now
 
-- ✨ Contributing to [chkware](https://github.com/chkware/cli);
+- ✨ Contributing to [chkware](https://github.com/lienteng);
 - :fire: Interested in website and Mobile app 
 - :calendar: Looking for contributing to flutter based open source projects 
 
@@ -31,7 +31,7 @@
 - ⚙️ I use daily: `.dart`, `.js`, `.yml`, `.sh`
 - 🌍 I'm mostly active within the **Flutter**
 - 🌱 Learning all about **Full Stacks Developer **
-- 💬 Ping me about **Flutter**, **dart**, **Docker**, **RestAPIs**, **Node js**, **React**
+- 💬 Ping me about **Flutter**, **dart**, **Docker**, **RestAPIs**, **Javascript**, **Node js**, **React**
 - 📫 Reach me: [twitter.com/sudiptob2](https://twitter.com/sudiptob2)
 - 📝 Checkout my [Resume](files/resume.pdf).
 
