@@ -32,12 +32,12 @@
 - 🌍 I'm mostly active within the **Flutter**
 - 🌱 Learning all about **Full Stacks Developer **
 - 💬 Ping me about **Flutter**, **dart**, **Docker**, **RestAPIs**, **Javascript**, **Node js**, **React**
-- 📫 Reach me: [twitter.com/sudiptob2](https://twitter.com/sudiptob2)
+- 📫 Reach me: [twitter.com/sudiptob2](https://www.facebook.com/abang.teng/)
 - 📝 Checkout my [Resume](files/resume.pdf).
 
 #### My Current Stack
 
-<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
+<img height="48" src="img/python-original.svg" alt="Dart"> <img height="48" src="img/django-plain-wordmark.svg" alt="Flutter"> <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
 
 #### Development Stuffs:
 
