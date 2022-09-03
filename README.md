@@ -32,7 +32,7 @@
 - 🌍 I'm mostly active within the **Flutter**
 - 🌱 Learning all about **Full Stacks Developer **
 - 💬 Ping me about **Flutter**, **dart**, **Docker**, **RestAPIs**, **Javascript**, **Node js**, **React**
-- 📫 Reach me: [twitter.com/sudiptob2](https://www.facebook.com/abang.teng/)
+- 📫 Reach me: [twitter.com/Facebook](https://www.facebook.com/abang.teng/)
 - 📝 Checkout my [Resume](files/resume.pdf).
 
 #### My Current Stack
