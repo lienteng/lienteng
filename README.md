@@ -19,7 +19,7 @@
 #### Now
 
 - ✨ Contributing to [akatsolution](http://akatsolution.com/en/index.php?d=index);
-- :fire: Interested in website and Mobile app 
+- :fire: Interested in website and Mobile app and AI
 - :calendar: Looking for contributing to flutter based open source projects 
 
 #### Bio
