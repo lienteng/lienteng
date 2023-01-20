@@ -34,7 +34,14 @@
 
 #### My Current Stack
 
-<img height="48" src="image/dart-programming-language-icon.svg" alt="Dart"> <img height="48" src="image/1_5-aoK8IBmXve5whBQM90GA.png" alt="Flutter"> <img height="48" src="https://github.com/sudiptob2/sudiptob2/blob/main/img/postgresql-original.svg" alt="postgress"> <img height="48" src="https://github.com/sudiptob2/sudiptob2/blob/main/img/docker-original.svg" alt="Docker"> <img height="48" src="https://github.com/sudiptob2/sudiptob2/blob/main/img/linux-original.svg" alt="linux"> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python"> <img height="48" src="https://seeklogo.com/vector-logo/273749/node-js" alt="Node JS"> <img height="48" src="https://github.com/sudiptob2/sudiptob2/blob/main/img/git-original.svg" alt="git"> <img height="48" src="https://github.com/sudiptob2/sudiptob2/blob/main/img/react-original.svg" alt="react">
+<img height="48" src="image/dart-programming-language-icon.svg" alt="Dart"> 
+<img height="48" src="image/1_5-aoK8IBmXve5whBQM90GA.png" alt="Flutter"> 
+<img height="48" src="https://github.com/sudiptob2/sudiptob2/blob/main/img/postgresql-original.svg" alt="postgress"> 
+<img height="48" src="https://github.com/sudiptob2/sudiptob2/blob/main/img/docker-original.svg" alt="Docker"> 
+<img height="48" src="https://github.com/sudiptob2/sudiptob2/blob/main/img/linux-original.svg" alt="linux"> 
+<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python"> <img height="48" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node JS"> 
+<img height="48" src="https://github.com/sudiptob2/sudiptob2/blob/main/img/git-original.svg" alt="git"> 
+<img height="48" src="https://github.com/sudiptob2/sudiptob2/blob/main/img/react-original.svg" alt="react">
 
 #### Development Stuffs:
 
