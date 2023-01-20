@@ -1,19 +1,16 @@
 ## Hi 👋, I'm a Web Developer
 
 <p align="left">
-  <a href="https://leetcode.com/sudiptob2/">
+  <a href="https://leetcode.com/problems/roman-to-integer/">
     <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
   </a>
-  <a href="https://codeforces.com/profile/sudipto.me">
-    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
-  </a>
-  <a href="https://stackoverflow.com/users/5921662/sudipto">
+  <a href="https://stackoverflow.com/users/16656515/lien-teng">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
   </a>
-  <a href="https://github.com/sudiptob2?tab=followers">
+  <a href="https://github.com/lienteng?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
   </a>
-  <a href="https://github.com/sudiptob2/">
+  <a href="https://github.com/lienteng">
     <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="visitors" />
   </a>
 
