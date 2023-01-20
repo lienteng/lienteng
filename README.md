@@ -72,10 +72,4 @@
 <a href="https://www.facebook.com/abang.teng">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
-<a href="https://www.instagram.com/abang.teng/">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AInstagram-Icon.png&psig=AOvVaw13RrDdgWxxB7JHVF6qDyPY&ust=1674283534854000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJD27KzG1fwCFQAAAAAdAAAAABAo" height=25>
-</a>
-<a href="https://medium.com/@olienteng895">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
 </p>
