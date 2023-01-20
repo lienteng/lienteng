@@ -63,7 +63,7 @@
 #### Connect With Me
 
 <p left="center">
-<a href="https://www.facebook.com/abang.teng/">
+<a href="https://twitter.com/lienteng_xang">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
 <a href="https://www.linkedin.com/in/sudiptob2/">
@@ -72,10 +72,10 @@
 <a href="https://www.facebook.com/abang.teng">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
-<a href="https://medium.com/@sudiptob2">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
+<a href="https://www.instagram.com/abang.teng/">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AInstagram-Icon.png&psig=AOvVaw13RrDdgWxxB7JHVF6qDyPY&ust=1674283534854000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJD27KzG1fwCFQAAAAAdAAAAABAo" height=25>
 </a>
-<a href="Olienteng895@gmail.com">
+<a href="https://medium.com/@olienteng895">
   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
